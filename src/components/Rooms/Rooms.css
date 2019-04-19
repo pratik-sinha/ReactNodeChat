@@ -1,0 +1,14 @@
+.Room p {
+    color: cornflowerblue;
+    font-size: 18px;
+    margin-bottom: 0px;
+    font-weight: bold;
+    cursor: pointer
+}
+
+h3 {
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+
